@@ -171,5 +171,6 @@ info "Successfully created LXC to $CTID."
 msg "
 
 Enjoy!
+  http://${IP}
 
 "
